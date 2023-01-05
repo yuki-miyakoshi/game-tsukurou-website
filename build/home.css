@@ -355,7 +355,7 @@
 .u-section-3 .u-image-1 {
   width: 293px;
   height: 597px;
-  margin: -509px 93px 0 auto;
+  margin: -517px 123px 0 auto;
 }
 
 .u-section-3 .u-btn-1 {
@@ -364,7 +364,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   background-image: none;
-  margin: 21px auto 0;
+  margin: 29px auto 0;
   padding: 5px 31px 6px 30px;
 }
 
@@ -520,12 +520,12 @@
   .u-section-3 .u-image-1 {
     width: 359px;
     height: 731px;
-    margin-top: 45px;
+    margin-top: 25px;
     margin-right: auto;
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 10px;
+    margin-top: 30px;
   }
 
   .u-section-3 .u-carousel-control-1 {
@@ -545,7 +545,7 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-left: calc(((100% - 1140px) / 2) + 355px);
+    margin-left: auto;
   }
 
   .u-section-3 .u-slider-1 {
@@ -553,7 +553,7 @@
   }
 
   .u-section-3 .u-carousel-indicators-1 {
-    bottom: 71px;
+    bottom: 47px;
   }
 
   .u-section-3 .u-group-1 {
@@ -576,23 +576,19 @@
   .u-section-3 .u-image-1 {
     width: 265px;
     height: 539px;
-    margin-top: 85px;
+    margin-top: 64px;
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: -45px;
+    margin-top: 59px;
   }
 
   .u-section-3 .u-carousel-control-1 {
-    left: 31px;
-    top: auto;
-    bottom: 407px;
+    left: 0;
   }
 
   .u-section-3 .u-carousel-control-2 {
-    top: auto;
-    right: 31px;
-    bottom: 407px;
+    right: 0;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 459px;

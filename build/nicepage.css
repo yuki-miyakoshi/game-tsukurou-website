@@ -39009,12 +39009,15 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     font-size: 1.5rem;
-    margin-right: 186px;
+    width: auto;
+    margin-top: 18px;
+    margin-right: 161px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -27px;
-    margin-bottom: 10px;
+    margin-top: -28px;
+    margin-bottom: 14px;
   }
 }
  .u-footer {
